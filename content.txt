@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>The Seven Wonders of the Ancient World</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="css/main.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic" rel="stylesheet">
+</head>
+<body>
+
 The Seven Wonders of the Ancient World
 
 Remarkable constructions of classical antiquity—lost in time
